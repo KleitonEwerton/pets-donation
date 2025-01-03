@@ -1,0 +1,15 @@
+Observações
+
+----------------------------------------------------
+
+Aplicativo já abre com um funcionário
+CPF: 126.745.986-22
+Senha: barrafunda
+
+----------------------------------------------------
+
+Arquivo com a conexão do Banco de Dados salvo em:
+
+com.example.pets_donation.Lib.Conexao_Banco
+
+----------------------------------------------------
